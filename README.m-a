@@ -1,0 +1,4 @@
+This app uses NASA image API to fetch images and display then after passing search query
+
+yarn
+yarn serve
